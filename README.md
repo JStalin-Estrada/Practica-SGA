@@ -1,0 +1,6 @@
+# PRACTICA 2 SGA
+## INTEGRANTES:
+### ESTRADA TAPIA STALIN
+### ORMAZA MONTESDEOCA YUMEIDA
+### ROMO LOPEZ BRYAN
+<img scr="cap1.png" width="300" heigth="500"  >
