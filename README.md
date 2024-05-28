@@ -3,4 +3,5 @@
 ### ESTRADA TAPIA STALIN
 ### ORMAZA MONTESDEOCA YUMEIDA
 ### ROMO LOPEZ BRYAN
-<img scr="cap1.png" width="300" heigth="500"  >
+![cap1](https://github.com/JStalin-Estrada/Practica-SGA/assets/170385484/960a0056-1ea7-401b-a507-c5da6006be92)
+
